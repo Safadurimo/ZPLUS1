@@ -1,4 +1,5 @@
 @EndUserText.label: 'IncrementerService'
 define service ZS_Incrementer {
   expose ZI_PLUS1;
+  expose ZI_PLUS1_PAR;
 }
